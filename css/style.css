@@ -60,10 +60,12 @@ ul.nav li a {
 #new-cupcakes img {
   border: 8px solid #FAF3BC;
   margin: 0 0 20px 0;
+  height: 273px;
 }
 
 #featured-cupcake img {
   border: 8px solid #FAF3BC;
+  height: 588px;
 }
 
 #copyright {
